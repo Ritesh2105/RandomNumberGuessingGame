@@ -1,0 +1,40 @@
+﻿<Window x:Class="Random_Number_Guessing_Game.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Random_Number_Guessing_Game"
+        mc:Ignorable="d"
+        Title="Random Number Guessing Game" Height="450" Width="900" Background="Black" WindowState="Maximized">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <!--Dragon Eye Image-->
+        <Image Grid.Row="1" Grid.Column="0" Grid.RowSpan="4" Grid.ColumnSpan="1" Name="Dragon_Eye" Opacity="0" Source="Dragon Eye.JPG"/>
+        <Image Grid.Row="0" Grid.Column="0" Grid.RowSpan="4" Grid.ColumnSpan="4" Name="Dragon"  Opacity="1" Source="Dragon Fire.jpg"/>
+        <!--Start Button-->
+        <Button Grid.Row="0" Grid.Column="0" Name="PLAY" Content="PLAY" FontSize="30" Foreground="Red" FontWeight="Heavy" Opacity="1" Margin="10" Click="PLAY_Click"/>
+        <!--Enter the number-->
+        <Label Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Name="Enter_Number" Content="ENTER THE NUMBER" IsEnabled="False" Opacity="0" Foreground="Red" FontWeight="Heavy" FontStyle="Oblique" FontSize="50" Margin="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2"  Name="GuessedNumber" IsEnabled="False" Opacity="0" FontSize="40" Foreground="Red" FontWeight="Heavy" Margin="10" Padding="10" Text="{Binding UserGuess}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" PreviewKeyDown="TextBox_PreviewKeyDown"/>
+        <Button Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Name="Submit" Content="Submit" IsEnabled="False" Opacity="0" FontSize="30" Foreground="Red" FontWeight="Heavy" Margin="10" Click="Submit_Click"/>
+        <Button Grid.Row="3" Grid.Column="2"  Name="PlayAgain" Content="Play Again" FontSize="30" IsEnabled="False" Opacity="0" Foreground="Red"  Margin="10" Click="PlayAgain_Click"/>
+        <Button Grid.Row="3" Grid.Column="1" Name="GiveUp" Content="Give Up!!" ToolTip="Never Say Never!!" IsEnabled="False" Opacity="0" FontSize="30" Foreground="Red" Margin="10" Click="GiveUp_Click"></Button>
+        <!--Previous Number-->
+        <Label Grid.Row="0" Grid.Column="3" Name="Previous_Numbers"  Content="Previous Numbers" FontSize="30" Foreground="Red" IsEnabled="False" Opacity="0" FontWeight="Heavy" Margin="10" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        <TextBox Grid.Row="1" Grid.Column="3" Grid.RowSpan="4" Name="Display_Data" FontSize="20" Foreground="Red" IsEnabled="False" Opacity="0" Text="{Binding TextRead}" Margin="5"/>
+        <!--Effects-->
+        <Button Grid.Row="1" Grid.Column="0" Name="Story" Content="STORY" FontSize="30" IsEnabled="true" Opacity="1" Foreground="Red" FontWeight="Heavy" Margin="10" Click="Story_Click"/>
+        <Button Grid.Row="2" Grid.Column="0" Name="Rules" Content="RULES" FontSize="30" IsEnabled="true" Opacity="1" Foreground="Red" FontWeight="Heavy" Margin="10" Click="Rules_Click"/>
+    </Grid>
+</Window>

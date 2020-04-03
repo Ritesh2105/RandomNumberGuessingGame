@@ -1,0 +1,35 @@
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\bin\Debug\Random Number Guessing Game.exe.config
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\bin\Debug\Random Number Guessing Game.exe
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\bin\Debug\Random Number Guessing Game.pdb
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\MainWindow.g.cs
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\App.g.cs
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game_MarkupCompile.cache
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game_MarkupCompile.lref
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\MainWindow.baml
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game.g.resources
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random_Number_Guessing_Game.Properties.Resources.resources
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game.csproj.GenerateResource.cache
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game.exe
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game.pdb
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Story.g.cs
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Story.baml
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Rules.g.cs
+C:\Users\rites\source\repos\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Rules.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\bin\Debug\Random Number Guessing Game.exe.config
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\bin\Debug\Random Number Guessing Game.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\bin\Debug\Random Number Guessing Game.pdb
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game.csprojAssemblyReference.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\MainWindow.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Rules.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Story.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\App.g.cs
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game_MarkupCompile.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game_MarkupCompile.lref
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\MainWindow.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Rules.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Story.baml
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game.g.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random_Number_Guessing_Game.Properties.Resources.resources
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game.csproj.GenerateResource.cache
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game.exe
+C:\Users\rites\OneDrive - Conestoga College\8010\Week 5 Assignment\Guessing Game V4.0\Random Number Guessing Game\Random Number Guessing Game\obj\Debug\Random Number Guessing Game.pdb
